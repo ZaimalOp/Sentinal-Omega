@@ -1,0 +1,11 @@
+streamlit
+ultralytics
+supervision
+deepface
+easyocr
+fpdf
+twilio
+opencv-python-headless
+numpy
+pillow
+tf-keras
